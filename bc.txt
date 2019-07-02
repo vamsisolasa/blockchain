@@ -9,3 +9,6 @@ hi
   
   this project is implemented in stellar platform
   
+  for transferring payments
+  
+  
