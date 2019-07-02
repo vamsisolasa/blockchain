@@ -1,0 +1,11 @@
+hi
+
+  i am implementing blockchain project
+  
+  prerequisite
+  
+  golang
+  datastructures
+  
+  this project is implemented in stellar platform
+  
